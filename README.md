@@ -59,4 +59,10 @@ python jira_notifier.py
 
 ---
 
+## 📌 Example Discord Output
 
+```
+<img width="760" height="124" alt="image" src="https://github.com/user-attachments/assets/2a4ea960-31d7-4081-9d3a-1f479a1346ce" />
+
+
+---
