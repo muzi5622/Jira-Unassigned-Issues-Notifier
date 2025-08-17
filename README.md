@@ -59,22 +59,4 @@ python jira_notifier.py
 
 ---
 
-## 📌 Example Discord Output
 
-```
-FROM LAST 5 MIN THESE ARE THE ISSUES THAT ARE NOT ASSIGNED
-
-Ticket ID: 12345, Summary: Fix login bug
-Ticket ID: 12346, Summary: Update API endpoint
-```
-
----
-
-## 🔒 Security Notes
-
-* Never commit your Jira API token or Discord webhook URL to a public repo.
-* Use **environment variables** or a `.env` file in production instead of hardcoding credentials.
-
----
-
-```
